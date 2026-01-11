@@ -8,4 +8,4 @@ description: "Take on roles as characters from the Council of Ricks, exploring i
 type: "Specialized Committee"
 ms: false
 ---
-A disturbance echoes across the Citadel. The Council of Ricks has issued an urgent summons: a rogue Rick has destabilized the Central Finite Curve, and the multiverse teeters on the brink of collapse. You, the delegates of this extraordinary committee, must navigate political ego, scientific anarchy, and interdimensional intrigue to decide whether to restore order, seize power, or rewrite the rules of reality itself.
+A disturbance echoes across the Citadel. The Council of Ricks has issued an urgent summons: rogue Mortys have destabilized the Central Finite Curve, and the multiverse teeters on the brink of collapse. You, the delegates of this extraordinary committee, must navigate political ego, scientific anarchy, and interdimensional intrigue to decide whether to restore order, seize power, or rewrite the rules of reality itself.

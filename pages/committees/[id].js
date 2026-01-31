@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Layout, { siteTitle } from "../../components/layout.js"
 import { getAllCommitteeIds, getCommitteeData } from '../../lib/committees'
+import Image from 'next/image'
 
 export async function getStaticProps({ params }) {
     const committeeData = await getCommitteeData(params.id)
@@ -65,7 +66,7 @@ export default function Committee({ committeeData }) {
         <br/>
 
         <div className='max-w-7xl md:mx-auto lg:mx-auto px-4 lg:px-8'>
-            <img className="md:w-full lg:w-full" src={committeeData.image} alt={committeeData.title} pt-0 />
+            <Image className="md:w-full lg:w-full" src={committeeData.image} alt={committeeData.title} pt-0 />
         </div>
 
         <br/>

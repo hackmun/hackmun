@@ -55,7 +55,7 @@ export default function Navbar() {
                   <div className="flex space-x-4">
                     {navigation.map((item) => (
                       <Link
-                        href={item.href}
+                        href={item.href} passHref legacyBehavior
                         key={item.name}
                         aria-current={item.current ? 'page' : undefined}
                       >

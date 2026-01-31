@@ -66,7 +66,7 @@ export default function Home() {
               </div>
               <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 max-w-7xl mx-auto">
                 {/* javascript weird, need to keep img, not Image */}
-                <img
+                <Image
                   className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
                   src="/images/hackmunnew.png"
                   alt="HackMUN"

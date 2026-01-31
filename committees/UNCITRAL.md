@@ -2,8 +2,8 @@
 title: "UNCITRAL: Commission on International Trade Law"
 chairs: "Elan Suttiratana and Nikhil Shah"
 email: "uncitralhackmun@gmail.com"
-guide: "Coming Soon"
-image: "Coming Soon"
+guide: "/guides/uncitral.pdf"
+image: "/images/uncitral.png"
 description: "Navigating the sociopolitical landscape of international trade: exploring the impact of oil on national security and of natural resources in the international supply chain."
 type: "General Assembly"
 ms: false

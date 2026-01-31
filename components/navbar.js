@@ -43,8 +43,15 @@ export default function Navbar() {
                       className="block lg:hidden"
                       src="/images/hackmun.png"
                       alt="HackMUN"
-                      width={40}
-                      height={40}
+                      width={36}
+                      height={36}
+                    />
+                    <Image
+                      className="hidden lg:block"
+                      src="/images/hackmun_large.png"
+                      alt="HackMUN"
+                      width={126}
+                      height={36}
                     />
                   </div>
                 </Link>

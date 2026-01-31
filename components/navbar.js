@@ -39,14 +39,14 @@ export default function Navbar() {
               <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
                 <Link href="/">
                   <div className="flex-shrink-0 flex items-center">
-                    <Image
+                    <img
                       className="block lg:hidden h-10 w-auto"
                       src="/images/hackmun.png"
                       alt="HackMUN"
                       width={36}
                       height={36}
                     />
-                    <Image
+                    <img
                       className="hidden lg:block h-9 w-auto"
                       src="/images/hackmun_large.png"
                       alt="HackMUN"

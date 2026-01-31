@@ -60,7 +60,7 @@ export default function Secretariat() {
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
                                             <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/elan.jpg" alt="" />
+                                                <Image className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/elan.jpg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
                                                     <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Elan Suttiratana</h1>
@@ -74,7 +74,7 @@ export default function Secretariat() {
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
                                             <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/ben.jpg" alt="" />
+                                                <Image className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/ben.jpg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
                                                     <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Ben Iaderosa</h1>
@@ -88,7 +88,7 @@ export default function Secretariat() {
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
                                             <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/nikhil.jpg" alt="" />
+                                                <Image className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/nikhil.jpg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
                                                     <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Nikhil Shah</h1>
@@ -103,7 +103,7 @@ export default function Secretariat() {
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
                                             <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/macey.jpg" alt="" />
+                                                <Image className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/macey.jpg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
                                                     <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Macey McLane</h1>
@@ -118,7 +118,7 @@ export default function Secretariat() {
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
                                             <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/shreyas.jpg" alt="" />
+                                                <Image className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/shreyas.jpg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
                                                     <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Shreyas Kuniyil</h1>
@@ -132,7 +132,7 @@ export default function Secretariat() {
                                         </div>
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
                                             <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/ella.jpg" alt="" />
+                                                <Image className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/ella.jpg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
                                                     <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Ella Ferrari</h1>
@@ -146,7 +146,7 @@ export default function Secretariat() {
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
                                             <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/gabriel.jpg" alt="" />
+                                                <Image className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/gabriel.jpg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
                                                     <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Gabriel Fossner</h1>
@@ -160,7 +160,7 @@ export default function Secretariat() {
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
                                             <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/sophie.jpg" alt="" />
+                                                <Image className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/sophie.jpg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
                                                     <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Sophie Kim</h1>
@@ -174,7 +174,7 @@ export default function Secretariat() {
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
                                             <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/peter.jpg" alt="" />
+                                                <Image className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/peter.jpg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
                                                     <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Peter Park</h1>

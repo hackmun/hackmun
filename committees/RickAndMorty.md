@@ -3,7 +3,7 @@ title: "Rick and Morty: Council of Ricks"
 chairs: "Peter Park and Ella Ferrari"
 email: "rickandmortyhackmun@gmail.com"
 guide: "Coming Soon"
-image: "Coming Soon"
+image: [Rick and Morty](./public/images/rickandmorty.jpg)
 description: "Take on roles as characters from the Council of Ricks, exploring interdimensional diplomacy, ethical chaos, and the political fallout of a universe where science, satire, and cosmic absurdity collide."
 type: "Crisis Committee"
 ms: false

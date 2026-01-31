@@ -40,15 +40,19 @@ export default function Navbar() {
                 <Link href="/">
                   <div className="flex-shrink-0 flex items-center">
                     <Image
-                      className="block lg:hidden h-10 w-auto"
+                      className="block lg:hidden"
                       src="/images/hackmun.png"
                       alt="HackMUN"
+                      width={40}
+                      height={40}
                     />
-                    /*<Image
-                      className="hidden lg:block h-9 w-auto"
+                    <Image
+                      className="hidden lg:block"
                       src="/images/hackmun_large.png"
                       alt="HackMUN"
-                    />*/
+                      width={1750}
+                      height={500}
+                    />
                   </div>
                 </Link>
                 <div className="hidden sm:block sm:ml-6">

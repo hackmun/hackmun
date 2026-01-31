@@ -69,7 +69,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hello delegates! My name is Elan Suttiratana, and I am a semior at Hackley School. I have been involved in Model United Nations since ninth grade, and joined the Hackley Secretariat as a sophomore year. Outside of Model UN, I play squash and am an avid reader. I'm also interested in linguistics and math. I look forward to seeing all of you at HackMUN!</p>
+                                            <p className="mt-4 text-gray-500">Hello delegates! My name is Elan Suttiratana, and I am a semior at Hackley School. I have been involved in Model United Nations since ninth grade, and joined the Hackley Secretariat as a sophomore year. Outside of Model UN, I play squash and am an avid reader. I am also interested in linguistics, computer science, and math. I look forward to seeing all of you at HackMUN!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -83,7 +83,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hello delegates, my name is Ben Iaderosa. I am a senior at Hackley and one of the secretary generals of HackMUN. I started doing MUN in early Middle School. At Hackley, I also run track and field, work with admissions, and volunteer with the Hudson Scholars program. I like watching movies, running, and playing video games. I am very excited to meet you all at HackMUN!</p>
+                                            <p className="mt-4 text-gray-500">Hello Delegates! My name is Ben Iaderosa and I am a senior at Hackley School. I have been doing Model UN for 7 years and I absolutely love it! I started it when my dad got a job at the United Nations and continued with it as I have become more involved and interested in international relations and politics. I am excited to meet you all at HackMUN!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -97,7 +97,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hello delegates! My name is Nikhil Shah and I am a current senior at Hackley. My love for theater and debate led me to Hackley MUN in 9th grade, and I joined the secretariat this year. Outside of Model UN, I have done dozens of musicals. I also enjoy competetive math and computer science, as well as puzzles and chess. I am excited to see everyone at HackMUN this year!</p>
+                                            <p className="mt-4 text-gray-500">Hello delegates! My name is Nikhil Shah and I am a senior at Hackley. My love for theater and debate led me to Hackley MUN in 9th grade, and I joined the secretariat this year. Outside of Model UN, I have done dozens of musicals. I also enjoy competetive math and computer science, as well as puzzles and chess. I am excited to see everyone at HackMUN this year!</p>
 
                                         </div>
 
@@ -112,7 +112,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">INSERT DESCRIPTION</p>
+                                            <p className="mt-4 text-gray-500">Hi everyone, my name is Macey McLane, and I am a senior. I started MUN in ninth grade to improve my public speaking skills and believe that it is a great way to push yourself out of your comfort zone. I enjoy running cross country and track, playing the violin, and volunteering outside of school. Looking forward to meeting you all at HackMUN!</p>
                                     
                                         </div>
 
@@ -141,7 +141,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">INSERT DESCRIPTION</p>
+                                            <p className="mt-4 text-gray-500">Hi everyone! My name is Ella, I am a junior at Hackley and a USG for HackMUN. Outside of MUN I participate in ethics bowl and DECA. I love to ski and have turned it into my sport and I work as a ski instructor! I am also a student ambassador leader and a on library advisory board, among many other things. If you can\\'t tell I am very social and love to speak! I also love to crotchet, read and am constantly coloring in my coloring book. I can\\'t wait to see all of you at HackMUN!!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -155,7 +155,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">INSERT DESCRIPTION</p>
+                                            <p className="mt-4 text-gray-500">Hi delegates and delegates-to-be, I\\'m Gabriel Fossner! I am a Junior at Hackley and a Model UN undersecretary general. I joined Model UN my Freshman year because I wanted to try new things and stuck with it because of my love of debate, research, and speaking. Outside of Model UN, I play a number of instruments including piano, bass guitar, and electric guitar. I also am a big history and economics buff, ex-competitive Rubik\\'s cuber, JV Squash Warrior, sprinter, vibe-coder, and avid doomscroller, as well as a big debater as a member of the Hackley debate team.</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -169,7 +169,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">INSERT DESCRIPTION</p>
+                                            <p className="mt-4 text-gray-500">Hello everyone, my name is Sophie Kim. I am a junior at Hackley and have been involved in Model UN for the past three years. During my time of doing MUN I have grown my skills of collaboration, debate, and research. Outside of MUN, I lead Hackley’s baking club, a student ambassador; and a tri-season athlete. In my free time I love to read and try out new baking recipes. I am excited to see you all at HackMUN</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -183,7 +183,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">INSERT DESCRIPTION</p>
+                                            <p className="mt-4 text-gray-500">Hello Delegates, my name is Peter Park. I am a Junior at Hackley and an USG of HackMUN. I first joined Model UN as a freshman. I am also a member of Hackley\\'s debate, baseball, squash, and ethics bowl teams. I enjoy fishing, playing video games, and listening to music. Hope to see you all at HackMUN!</p>
                                         </div>
 
                                     </div>

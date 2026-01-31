@@ -142,7 +142,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hi everyone! My name is Ella, I am a junior at Hackley and a USG for HackMUN. Outside of MUN I participate in ethics bowl and DECA. I love to ski and have turned it into my sport and I work as a ski instructor! I am also a student ambassador leader and a on library advisory board, among many other things. If you can&apos;t tell I am very social and love to speak! I also love to crotchet, read and am constantly coloring in my coloring book. I can\&apos;t wait to see all of you at HackMUN!!</p>
+                                            <p className="mt-4 text-gray-500">Hi everyone! My name is Ella, I am a junior at Hackley and a USG for HackMUN. Outside of MUN I participate in ethics bowl and DECA. I love to ski and have turned it into my sport and I work as a ski instructor! I am also a student ambassador leader and a on library advisory board, among many other things. If you can&apos;t tell I am very social and love to speak! I also love to crotchet, read and am constantly coloring in my coloring book. I can&apos;t wait to see all of you at HackMUN!!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -156,7 +156,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hi delegates and delegates-to-be, I\&apos;m Gabriel Fossner! I am a Junior at Hackley and a Model UN undersecretary general. I joined Model UN my Freshman year because I wanted to try new things and stuck with it because of my love of debate, research, and speaking. Outside of Model UN, I play a number of instruments including piano, bass guitar, and electric guitar. I also am a big history and economics buff, ex-competitive Rubik\&apos;s cuber, JV Squash Warrior, sprinter, vibe-coder, and avid doomscroller, as well as a big debater as a member of the Hackley debate team.</p>
+                                            <p className="mt-4 text-gray-500">Hi delegates and delegates-to-be, I&apos;m Gabriel Fossner! I am a Junior at Hackley and a Model UN undersecretary general. I joined Model UN my Freshman year because I wanted to try new things and stuck with it because of my love of debate, research, and speaking. Outside of Model UN, I play a number of instruments including piano, bass guitar, and electric guitar. I also am a big history and economics buff, ex-competitive Rubik&apos;s cuber, JV Squash Warrior, sprinter, vibe-coder, and avid doomscroller, as well as a big debater as a member of the Hackley debate team.</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -170,7 +170,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hello everyone, my name is Sophie Kim. I am a junior at Hackley and have been involved in Model UN for the past three years. During my time of doing MUN I have grown my skills of collaboration, debate, and research. Outside of MUN, I lead Hackley’s baking club, a student ambassador; and a tri-season athlete. In my free time I love to read and try out new baking recipes. I am excited to see you all at HackMUN</p>
+                                            <p className="mt-4 text-gray-500">Hello everyone, my name is Sophie Kim. I am a junior at Hackley and have been involved in Model UN for the past three years. During my time of doing MUN I have grown my skills of collaboration, debate, and research. Outside of MUN, I lead Hackley’s baking club, a student ambassador; and a tri-season athlete. In my free time I love to read and try out new baking recipes. I am excited to see you all at HackMUN!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -184,7 +184,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hello Delegates, my name is Peter Park. I am a Junior at Hackley and an USG of HackMUN. I first joined Model UN as a freshman. I am also a member of Hackley\&apos;s debate, baseball, squash, and ethics bowl teams. I enjoy fishing, playing video games, and listening to music. Hope to see you all at HackMUN!</p>
+                                            <p className="mt-4 text-gray-500">Hello Delegates, my name is Peter Park. I am a Junior at Hackley and an USG of HackMUN. I first joined Model UN as a freshman. I am also a member of Hackley&apos;s debate, baseball, squash, and ethics bowl teams. I enjoy fishing, playing video games, and listening to music. Hope to see you all at HackMUN!</p>
                                         </div>
 
                                     </div>
@@ -217,7 +217,7 @@ export default function Secretariat() {
                                         <br />
                                         <p>Elan Suttiratana and Ben Iaderosa,</p>
                                         <br />
-                                        <p>Secretaries-General of HackMUN V</p>
+                                        <p>Secretaries-General of HackMUN VII</p>
                                     </div>
                                 </div>
                             </Tab.Panel>

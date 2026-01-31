@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Layout, { siteTitle } from "../components/layout.js"
 import { Tab } from '@headlessui/react'
 import { Fragment } from 'react'
+import Image from 'next/image'
 
 function classNames(...classes) {
     return classes.filter(Boolean).join(' ')

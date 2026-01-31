@@ -43,11 +43,15 @@ export default function Navbar() {
                       className="block lg:hidden h-10 w-auto"
                       src="/images/hackmun.png"
                       alt="HackMUN"
+                      width={36}
+                      height={36}
                     />
                     <img
                       className="hidden lg:block h-9 w-auto"
                       src="/images/hackmun_large.png"
                       alt="HackMUN"
+                      width={126}
+                      height={36}
                     />
                   </div>
                 </Link>
@@ -55,7 +59,7 @@ export default function Navbar() {
                   <div className="flex space-x-4">
                     {navigation.map((item) => (
                       <Link
-                        href={item.href}
+                        href={item.href} passHref legacyBehavior
                         key={item.name}
                         aria-current={item.current ? 'page' : undefined}
                       >

@@ -40,7 +40,7 @@ export default function Committees({ allCommitteesData }) {
                   <div key={title} className={ms ? 'hidden' : 'relative'}>
                     <a href={"/committees/" + id}>
                       <div className="max-w-sm rounded overflow-hidden shadow-lg">
-                        <Image className="w-full" src={image} alt="" pt-0 />
+                        <img className="w-full" src={image} alt="" pt-0 />
                         <div className="px-6 py-4">
                           <div className="text-xs text-neutral-700">{type}</div>
                           <div className="font-bold text-xl mb-2">{title}</div>

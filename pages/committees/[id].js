@@ -66,7 +66,7 @@ export default function Committee({ committeeData }) {
         <br/>
 
         <div className='max-w-7xl md:mx-auto lg:mx-auto px-4 lg:px-8'>
-            <Image className="md:w-full lg:w-full" src={committeeData.image} alt={committeeData.title} pt-0 />
+            <img className="md:w-full lg:w-full" src={committeeData.image} alt={committeeData.title} pt-0 />
         </div>
 
         <br/>

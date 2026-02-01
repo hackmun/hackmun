@@ -1,6 +1,6 @@
 ---
 title: "The Office"
-chairs: "Ben Iaderosa and Macey McLane"
+chairs: "Ben Iaderosa, Macey McLane, and Sophie Kim"
 email: "theofficehackmun@gmail.com"
 guide: "/guides/placeholder.pdf"
 image: "/images/office.jpg"

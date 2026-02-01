@@ -2,8 +2,8 @@
 title: "The Office"
 chairs: "Ben Iaderosa and Macey McLane"
 email: "theofficehackmun@gmail.com"
-guide: "Coming Soon"
-image: "Coming Soon"
+guide: "/guides/placeholder.pdf"
+image: "/images/office.jpg"
 description: "Step into the Scranton Branch! Rise as a chaotic office power player: scheme, improvise, and reshape Dunder Mifflin’s destiny."
 type: "Crisis Committee"
 ms: false

@@ -3,7 +3,7 @@ title: "U.S. Supreme Court"
 chairs: "Shreyas Kuniyil and Gabriel Fossner"
 email: "supremecourthackmun@gmail.com"
 guide: "/guides/supremecourt.pdf"
-image: "Coming Soon"
+image: "/images/supremecourt.jpg"
 description: "Take on roles as U.S. Supreme Court justices to debate and resolve the nation's most pressing issues."
 type: "Specialized Committee"
 ms: false
